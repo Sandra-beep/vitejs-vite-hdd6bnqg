@@ -44,3 +44,7 @@
 button{
   margin:1rem
 }
+
+ul {
+  list-style-type: none;
+}
